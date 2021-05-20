@@ -1,4 +1,4 @@
-# covid19_count
+# Covid Count
 
 A new Flutter application.
 
